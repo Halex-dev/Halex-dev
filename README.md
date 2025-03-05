@@ -44,7 +44,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Halex-dev/Halex-dev/output/snake.svg" alt="Snake animation" />
-
-###
